@@ -1,8 +1,3 @@
-# FormulaOne
-Formula one prediction system
-Here's a basic template for a README file for your Formula One prediction system. You can customize it according to your project's specifics:
-
----
 
 # FormulaOne Prediction System
 
@@ -97,7 +92,3 @@ This project is licensed under the MIT License - \\
 ## Contact
 
 For questions or feedback, please contact jiamohan@gmail.com
-
----
-
-Feel free to adjust any sections or add more details based on the specific features and requirements of your project!
